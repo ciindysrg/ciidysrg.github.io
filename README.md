@@ -37,7 +37,7 @@ Don't forget to give the project a star! Thanks again!
 Bucin Pages is released under the [MIT](https://github.com/manh21/bucin-pages/blob/master/LICENSE) license.
 
 ## Contact
-Naufal Hakim - [@manh21_](https://twitter.com/manh21_) - mail@naufalhakim.my.id
+Jellay - [@manh21_](https://twitter.com/cyber4rtnet) - mail@jellay.co.id
 
 Project Link: [https://github.com/manh21/bucin-pages](https://github.com/manh21/bucin-pages)
 
